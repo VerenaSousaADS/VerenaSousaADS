@@ -1,4 +1,4 @@
-### Oi 👋
+### Olá 👋, me chamo Verena Sousa
 
 
 
