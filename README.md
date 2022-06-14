@@ -4,7 +4,7 @@
 
 - 🔭 No momento estou trabalhando na [Prefeitura Municipal de Parauapebas](https://parauapebas.pa.gov.br/)
 
-- 🌱 Estou estudando **Git, Github, HTML, CSS, JAVASCRIPT, NODE**
+- 🌱 Estou estudando **Git, Github, HTML, CSS, JAVASCRIPT, NODE, JAVA, ANGULAR**
 
 - 📫 Meu contato:  **verena.ads19@hotmail.com**
 
